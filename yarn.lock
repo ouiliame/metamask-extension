@@ -2117,7 +2117,7 @@
 
 "@metamask/inpage-provider@./metamask-inpage-provider-7.0.0.tgz":
   version "7.0.0"
-  resolved "./metamask-inpage-provider-7.0.0.tgz#a2af6325639797848d781d4133c21000746f3d0c"
+  resolved "./metamask-inpage-provider-7.0.0.tgz#7d245edb21057614759e67ccb73cb96dead5dc81"
   dependencies:
     eth-rpc-errors "^2.1.1"
     fast-deep-equal "^2.0.1"
