@@ -2115,9 +2115,9 @@
   resolved "https://registry.yarnpkg.com/@metamask/forwarder/-/forwarder-1.1.0.tgz#13829d8244bbf19ea658c0b20d21a77b67de0bdd"
   integrity sha512-Hggj4y0QIjDzKGTXzarhEPIQyFSB2bi2y6YLJNwaT4JmP30UB5Cj6gqoY0M4pj3QT57fzp0BUuGp7F/AUe28tw==
 
-"@metamask/inpage-provider@./metamask-inpage-provider-7.0.0.tgz":
-  version "7.0.0"
-  resolved "./metamask-inpage-provider-7.0.0.tgz#7d245edb21057614759e67ccb73cb96dead5dc81"
+"@metamask/inpage-provider@./metamask-inpage-provider-8.0.0.tgz":
+  version "8.0.0"
+  resolved "./metamask-inpage-provider-8.0.0.tgz#08450261c3f2d994df12492a2694c3f6d4a1420b"
   dependencies:
     eth-rpc-errors "^2.1.1"
     fast-deep-equal "^2.0.1"
